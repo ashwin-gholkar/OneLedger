@@ -1,0 +1,2 @@
+alembic revision --autogenerate -m "create businesses"
+alembic upgrade head  
